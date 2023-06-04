@@ -1,0 +1,164 @@
+/* Create a container for the background image */
+.header--image {
+    background-size: cover;
+    background-position: center;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: -1;
+}
+
+.header--container {
+    height: 100vh;
+    position: relative;
+}
+
+.header--container h1 {
+    font-size: 6rem;
+    font-weight: 300;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    padding-left: 10%;
+    z-index: 2;
+
+}
+
+
+/*Text box CSS*/
+.text--box {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 100%;
+    height: 100%;
+    padding: 0 120px;
+}
+
+.block--list {
+    width: 30%;
+    font-size: 22px;
+    color: rgb(255, 255, 255);
+}
+
+.block--list div h6 {
+    color: rgb(218, 218, 218);
+}
+
+.block--list div:not(:first-child) {
+    margin-top: 50px;
+}
+
+.project--desc {
+    width: 25%;
+    font-size: 24px;
+}
+
+/*Full Image*/
+/* Create a container for the background image */
+.full--image {
+    position: relative;
+    height: 100%;
+    width: 100%;
+}
+
+.full--image img {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    /* This will maintain the aspect ratio while enlarging the image to cover the container */
+}
+
+/*Half Image LEFT*/
+.half--image-left {
+    width: 100%;
+    height: 100%;
+    overflow: hidden; 
+    clip-path: polygon(0 0, 60% 0, 60% 100%, 0 100%);
+}
+
+.half--image-left img {
+    float: left;
+    object-fit: cover;
+}
+
+/*Half Image Right*/
+.half--image-right {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    clip-path: polygon(40% 0, 100% 0, 100% 100%, 40% 100%);
+}
+
+.half--image-right img {
+    float: right;
+     object-fit: cover;
+}
+
+@media screen and (max-width: 1440px) {
+    .block--list {
+        font-size: 20px;
+    }
+
+    .project--desc {
+        font-size: 20px;
+    }
+
+    .mb--pd-mg {
+        padding: 15px 0 !important;
+    }
+    
+    .mb--pd-mg .container-fluid {
+        padding: 0;
+    }
+
+    .side-size {
+        height: 100% !important;
+    }
+}
+
+@media screen and (max-width: 900px) {
+    .half--image-left,
+    .half--image-right {
+        clip-path: none;
+    }
+    
+
+    .container-fluid {
+        width: 100vw;
+        max-width: 100%;
+        height: 100%;
+        padding: 10px 0 !important;
+    }
+
+    .text--box {
+        flex-direction: column;
+        justify-content: center;
+        padding: 0 20px;
+    }
+
+    .block--list,
+    .project--desc {
+        width: 100%;
+        font-size: 12px;
+        padding: 30px 18px;
+    }
+
+    /*Mobile responsive class*/
+    .mb--pd-mg {
+        padding: 0 !important;
+    }
+
+    
+
+}
+
+/* Add mobile responsiveness */
+@media screen and (max-width: 768px) {
+    .header--container h1 {
+        font-size: 72px;
+    }
+}

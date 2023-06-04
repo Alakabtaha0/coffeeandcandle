@@ -1,0 +1,652 @@
+@media screen and (min-width: 1999px) {
+
+ 
+
+}
+
+
+
+@media screen and (max-width: 1700px) {
+
+.socialMeadia{left: 40px;}
+
+.mouseScall{right: 40px;}
+
+
+
+.sectionFour .iconBoxList{margin-bottom: 70px;}
+
+.iconBoxList .iconBox{width: 14%;margin-bottom: 15px;}
+
+.secTitle{margin-bottom: 50px;}
+
+
+
+.contactInfoMain{padding-top: 90px;}
+
+.contactInfo p{font-size: 20px;}
+
+.contactForm .inputField{font-size: 16px;padding: 10px 0 2px;}
+
+.contactSubForm .submit-btn img{max-width: 15px;}
+
+.contactSubForm .submit-btn{width: 28px;height: 28px;margin-bottom: 5px;}
+
+.formTitle{margin-bottom: 20px;}
+
+
+
+.simpleContentInner .btn{padding-top: 20px;}
+
+
+
+
+
+
+
+  
+
+}
+
+@media screen and (max-width: 1460px) {
+
+.contactInfo{padding-left: 80px;}
+
+
+
+.agencyCon{max-width: 1460px;}
+
+.agencyHed{ line-height: 1;padding-left: 100px;}
+
+.agencyDec{margin: 15px 0;padding-left: 100px;}
+
+.agencyCon .accordion-header .accordion-button{margin: 15px 0 25px;}
+
+.agencyCon .accordion-header{padding-left: 100px;}
+
+.accBox{padding: 40px 20px 0;}
+
+.accHead{font-size: 25px;padding-bottom: 25px;}
+
+
+
+
+
+
+
+ 
+
+}
+
+@media screen and (max-width: 1367px) {
+
+.contactTitle{font-size: 40px;margin-bottom: 10px;}
+
+.contactLink{font-size: 24px;}
+
+.contactInfo p{font-size: 18px;}
+
+
+
+/*ms*/
+
+.iconBoxList .iconBox{width: 15%;}
+
+.simpleContentInner .btn a,
+
+.simpleContentInner p{font-size: 32px;}
+
+.simpleContentInner .btn {padding-top: 25px;}
+
+.sectionFour .secTitle br {display: none;}
+
+.sectionFour .iconBox .iconImg img {max-height: 120px;}
+
+.sectionFour .iconBox .iconImg {height: 110px;max-width: 100%; margin-bottom: 30px;}
+
+.sectionFour .iconBoxList {margin-bottom: 30px;}
+
+
+
+
+
+}
+
+@media screen and (max-width: 1299px) {
+
+  
+
+}
+
+
+
+@media screen and (max-width: 1199px) {
+
+.container{padding: 0 80px;}
+
+.socialMeadia{left: 30px;}
+
+.mouseScall{right: 25px;}
+
+.mouseScall .icon-mouse{font-size: 32px;}
+
+
+
+.contactTitle{font-size: 34px;line-height: 1.35;}
+
+.contactInfo p{font-size: 16px;}
+
+
+
+.contactForm .inputField{font-size: 16px;}
+
+.submit-btn{margin-top: 20px;width: 30px;height: 30px;}
+
+.submit-btn img{max-width: 16px;}
+
+
+
+.panel .iconBoxList .iconBox, .panel.sectionFour .iconBoxList .iconBox{width: 20%;}
+
+
+
+.agencyDec{margin: 10px 0;}
+
+.agencyCon .accordion-header .accordion-button{font-size: 24px;margin-top: 5px;}
+
+.accBox{width: 50%;}
+
+.agencySubDec{font-size: 45px;margin-bottom: 30px;}
+
+
+
+}
+
+@media screen and (max-width: 991px) {
+
+.navMenu .menu li a {font-size: 52px;}
+
+
+
+/*.bannerImg{max-width: 100%;}*/
+
+.slick-arrow{width: 35px;height: 35px;left: 20px;}
+
+.slick-arrow.slick-next{right: 20px;}
+
+.slick-arrow:after{width: 12px;height: 12px;}
+
+.slick-arrow.slick-next:after{right: 13px;}
+
+.slick-arrow.slick-prev:after{left: 13px;}
+
+.workPage .link{padding-top: 30px;}
+
+
+
+.container-fluid,.container{padding: 0 50px;}
+
+.socialMeadia{left: 25px;}
+
+.socialMeadia a{padding: 7px 0;}
+
+.socialMeadia .icon-instagram, .socialMeadia .icon-twitter, .socialMeadia .icon-whatsapp{font-size: 20px;}
+
+.mouseScall{right: 20px;}
+
+.mouseScall .icon-mouse{font-size: 26px;}
+
+.mouseScall span{font-size: 18px;}
+
+
+
+.stepHed{font-size: 40px;margin-bottom: 20px;}
+
+.stepCon p{font-size: 24px;line-height: 1.8;}
+
+.stepCon span{font-size: 24px;}
+
+
+
+.fitscreenSec{padding: 80px 50px;}
+
+.fitscreenSec.workSec.workPage{padding: 100px 0 120px;}
+
+
+
+.contactInfoMain{padding-top: 60px;}
+
+.contactInfo{padding-left: 60px;}
+
+.contactBox{margin-bottom: 15px;}
+
+.contactTitle br{display: none;}
+
+
+
+.sectionFour .secTitle {margin-bottom: 50px;font-size: 45px;}
+
+.iconBoxList .iconBox, .iconBoxList .iconBox.iconTwo {width: 25%;}
+
+.iconBox .iconImg{height: 90px;}
+
+.iconBox .iconImg img {max-height: 70px;}
+
+
+
+
+
+.formTitle{font-size: 30px;margin-bottom: 40px;}
+
+
+
+.agencyHed{font-size: 40px;padding-left: 40px;}
+
+.agencyDec{font-size: 18px;padding-left: 40px;line-height: 1.3;}
+
+.agencyCon:last-child{margin-bottom: 0;}
+
+.agencyCon .accordion-header{padding-left: 40px;}
+
+.agencyCon .accordion-header .accordion-button{font-size: 18px;}
+
+.accBox{padding: 30px 10px 0;}
+
+.accHead{font-size: 20px;padding-bottom: 15px;}
+
+.accCon p{font-size: 15px;}
+
+.agencyCon{padding: 50px 0;margin-bottom: 40px;}
+
+.agencySubDec{font-size: 34px; /*    margin-bottom: 60px;*/}
+
+.agencySub{ padding-top: 70px; padding-bottom: 60px;}
+
+.agencySubCon .btnRow{/*margin-top: 120px;*/margin-top: 30px; text-align: center;}
+
+
+
+.btn{min-width: 220px;padding: 8px;font-size: 20px;}
+
+
+
+}
+
+
+
+@media screen and (max-width: 767px) {
+
+.headerMain{max-width: 100%; padding: 20px 0;}
+
+.siteLogo img{width: 25px;}
+
+.siteTextLogo img{max-width: 170px;}
+
+.mouseScall span{font-size: 16px;}
+
+
+
+.contactInfo{padding: 20px 20px 20px 50px;border-radius: 20px;}
+
+.contactTitle{font-size: 28px;}
+
+ 
+
+/*ms*/
+
+.container-fluid, .container {padding: 0 20px;}
+
+.bannerImg {max-width: 100%; height: 100%;}
+
+.secTitle,.sectionFour .secTitle {font-size: 30px;line-height: 1.35;}
+
+.iconBoxList{min-height: auto;}
+
+.iconBoxList .iconBox {width: 33.33% !important;margin-bottom: 5px;}
+
+.iconBox .iconImg {height: 70px;}
+
+.iconBox .iconImg img {max-height: 55px;}
+
+.iconBox .iconBoxTitle {font-size: 16px;}
+
+
+
+.simpleContent{background-position: center center; background-size: cover;}
+
+.simpleContentInner .btn a, .simpleContentInner p {font-size: 26px;}
+
+.sectionFour .iconBox .iconImg img {max-height: 80px;max-width: 100px;}
+
+.sectionFour .iconBox .iconImg {height: 70px;margin-bottom: 20px;}
+
+.link{font-size: 24px;}
+
+.sectionFour .iconBoxList {margin-bottom: 20px;}
+
+.bottomLogoIcon img {max-width: 115px;}
+
+.navMenu .menu li a {font-size: 42px;}
+
+
+
+.contactForm{max-width: 500px;padding: 28px 60px 30px;}
+
+.submit-btn{width: 34px;height: 34px;}
+
+.submit-btn img {max-width: 18px;}
+
+.page3 .footerMain{display: none;}
+
+
+
+.stepHed{font-size: 28px;line-height: 1.4;}
+
+.stepCon p, .stepCon span{font-size: 16px;}
+
+.stepCon .btn{min-width: 200px;font-size: 18px;border-radius: 8px;}
+
+
+
+.agencyHed, .agencySubDec{font-size: 30px;}  
+
+.agencyDec, .agencyCon .accordion-header .accordion-button{font-size: 16px;} 
+
+
+
+.agencySubCon{max-width: 500px;}
+
+.btn{min-width: 180px;font-size: 16px;}
+
+
+
+}
+
+@media screen and (max-width: 568px) {
+
+.headerMain{padding: 20px 0;}
+
+.siteLogo img{max-width: 22px;}
+
+.socialMeadia,.mouseScall{display: none;}
+
+.fitscreenSec{padding: 80px 0 40px;}
+
+
+
+.blueBg{background-size: 300%;}
+
+
+
+.bannerSec{position: relative;}
+
+.bannerSec .mouseScall{display: block;position: absolute; left: 0; right: 0; top: inherit; bottom: 0;}
+
+
+
+
+
+.workList{ margin: 0 -40px; width: auto;}
+
+
+
+.link{font-size: 16px;}
+
+.bottomLogoIcon{display: none;}
+
+
+
+.formTitle{font-size: 24px;margin-bottom: 20px;}
+
+
+
+.contactLink{font-size: 20px; line-height: 1.35;}
+
+.fillUpTitle{font-size: 16px;}
+
+.contactInfo{padding-left: 20px;border-radius: 20px;}
+
+.contactInfo .contactTitle{display: none;}
+
+.mapdivs{padding-bottom: 0; margin-top: 30px;}
+
+
+
+.contactForm{padding: 20px 30px;border-radius: 20px;}
+
+.contactForm .inputField{line-height: 1.2; padding: 10px 0 3px;}
+
+.contactForm .inputField.notes{background-image: repeating-linear-gradient(transparent, transparent 32px, rgb(255 255 255 / 10%) 32px, rgb(255 255 255 / 10%) 34px, transparent 34px);line-height: 32px;}
+
+.contactForm textarea{height: 135px;}
+
+.submit-btn img{max-width: 14px;}
+
+.submit-btn, .contactSubForm .submit-btn{margin-top: 60px;width: 28px;height: 28px;}
+
+.contactForm p{font-size: 14px;line-height: 1.2;}
+
+
+
+.simpleContentInner .btn a, .simpleContentInner p{font-size: 16px;}
+
+.fitscreenSec.workSec.workPage{padding: 80px 0;padding-top: 140px;}
+
+
+
+.iconSection .container-fluid{display: flex;flex-wrap: wrap;align-items: center;justify-content: center;}
+
+
+
+.slick-arrow{width: 28px;height: 28px;}
+
+.slick-arrow:after{width: 9px;height: 9px;}
+
+.slick-arrow.slick-prev:after{left: 9px;}
+
+.slick-arrow.slick-next:after{right: 9px;}
+
+
+
+.workPage .workImg img{max-width: 180px;}
+
+.work2 .footerMain, body#sec0 .work2 .footerMain, body#sec1 .work2 .footerMain, body#sec2 .work2 .footerMain{display: none;}
+
+.workPage .link{display: none;}
+
+.workPage .work_slider, .workPage .work_slider .workImg{height: calc(100vh - 250px);}
+
+
+
+.stepCon .btn{min-width: 180px;padding: 12px;}
+
+
+
+.accBox{width: 100%;}
+
+.agencyCon .accordion-body{padding-bottom: 20px;}
+
+.agencyHed, .agencySubDec{font-size: 28px;}
+
+.agencyPre{font-size: 16px;}
+
+.contactInfo {margin-bottom: 40px;}
+
+.mapdivs iframe{min-height: calc(100vh - 190px); margin-bottom: 20px; padding-top: 20px;}
+
+
+
+}
+
+
+
+@media screen and (max-width: 479px) {
+
+.navMenu{padding-bottom: 30px;}
+
+.navMenu .menu li{margin: 10px 0;}
+
+.navMenu .menu li a{font-size: 35px;}
+
+.headerSocials a{margin: 0 5px;}
+
+.headerSocials .icon-instagram, .headerSocials .icon-twitter, .headerSocials .icon-whatsapp{font-size: 22px;}
+
+
+
+.socialMeadia{left: 15px;}
+
+.mouseScall{right: 12px;}
+
+.mouseScall span{font-size: 14px;}
+
+
+
+.bannerSec .container{padding: 0;}
+
+
+
+.secTitle, .sectionFour .secTitle{font-size: 20px;margin-bottom: 35px;}
+
+.sectionFour .iconBox .iconImg{height: 50px;margin-bottom: 10px;}
+
+.sectionFour .iconBox .iconImg img {
+
+    max-height: 50px;
+
+    max-width: 50px;
+
+}
+
+
+
+.contactLink{font-size: 16px;}
+
+.contactInfo p{font-size: 14px;line-height: 1.4;}
+
+
+
+.workBox{width: 100%; height: 160px;} 
+
+.fitscreenSec.agencySec{padding-top: 50px;}
+
+.agencyCon {padding: 60px 0 30px 0; margin-bottom: 00px; margin-top: 0;}
+.agencyCon:first-child { margin-top: 60px; }
+.agencyHed, .agencyDec, .agencyCon .accordion-header{padding-left: 0}
+
+.accBox {
+
+    padding: 15px 0px;
+
+}
+
+.iconBoxList{margin: 0 -15px; margin-bottom: 20px; width: auto;} 
+
+.iconBoxList .iconBox{padding: 7px 5px;}
+
+.iconBox .iconImg{height: 45px;}
+
+.iconBox .iconImg img{max-height: 40px;}
+
+.iconBox .iconBoxTitle{font-size: 12px;}
+
+
+
+.workPage .workImg img{max-width: 100px;}
+
+.slick-arrow{width: 18px;height: 18px;left: 10px;}
+
+.slick-arrow.slick-next{right: 10px;}
+
+.slick-arrow:after{width: 6px;height: 6px;}
+
+.slick-arrow.slick-prev:after{left: 5.5px;}
+
+.slick-arrow.slick-next:after{right: 5.5px;}
+
+
+
+.footerMain p{font-size: 15px;}
+
+}
+
+
+
+@media screen and (max-width: 380px) {
+
+.contactTitle{font-size: 24px;max-width: 320px;margin: auto;}
+
+
+
+
+
+
+
+
+
+}
+
+
+
+@media screen and (max-width: 350px) {
+
+.fitscreenSec{padding: 60px 0;}
+
+.footerMain p{font-size: 13px;}
+
+
+
+.simpleContentInner .btn a, .simpleContentInner p{font-size: 16px;margin-bottom: 18px;}
+
+.simpleContentInner .btn{padding-top: 10px;}
+
+
+
+.siteTextLogo img{max-width: 130px;}
+
+.contactTitle{font-size: 22px;}
+
+.contactInfo{padding-left: 20px;}
+
+
+
+.contactForm{padding: 15px 30px 10px;}
+
+.formTitle{font-size: 20px;}
+
+.fillUpTitle, .contactForm .inputField, .contactForm p{font-size: 12px;}
+
+.contactSubForm .submit-btn {margin-top: 10px;width: 20px;height: 20px;}
+
+.contactSubForm .submit-btn img {max-width: 12px;}
+
+
+
+.secTitle, .sectionFour .secTitle{font-size: 20px;}
+
+
+
+}
+
+
+
+/* common css for screen size between 991 to 1199 */
+
+@media only screen and (min-width: 991px) and (max-width: 1199px) {
+
+.contactInfo{padding: 20px 10px 40px 25px;}
+
+
+
+}
+
+
+
+/* common css for screen size between 568 to 767 */
+
+@media only screen and (min-width: 568px) and (max-width: 767px) {
+
+.workPage .work_slider{margin: 0 40px;}
+
+}
+

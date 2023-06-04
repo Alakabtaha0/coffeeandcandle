@@ -1,0 +1,49 @@
+.grid {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(450px, 1fr));
+    grid-gap: 10px;
+    margin: 0 auto;
+    justify-content: center;
+    padding-bottom: 20px;
+    padding: 0 160px;
+    background: url(../assets/black-pattern.png) no-repeat center center / cover #082338;
+    /*background: url(../img/patter-bg.png) no-repeat center center #082338;*/
+    background-attachment: fixed;
+}
+
+.grid-item {
+    text-align: center;
+    width: 100%;
+    overflow: hidden;
+}
+
+
+.overflow--scroll {
+    overflow-y: hidden;
+}
+
+
+@media (max-width: 1440px) {
+    .grid {
+        grid-template-columns: repeat(2, minmax(300px, 1fr));
+        padding: 0 90px;
+    }
+}
+
+
+@media only screen and (min-width: 880px) and (max-width: 1199px) {
+    .grid {
+        padding: 0;
+    }
+}
+
+@media (max-width: 780px) {
+    .grid {
+        grid-template-columns: repeat(1, minmax(400px, 1fr));
+        padding: 0;
+    }
+
+    .overflow--scroll {
+        overflow-y: scroll;
+    }
+}
